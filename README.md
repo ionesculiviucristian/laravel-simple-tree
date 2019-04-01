@@ -31,9 +31,11 @@ $tree = new ionesculiviucristian\LaravelSimpleTree([
 ]);
 
 print_r($tree->build());
+```
 
 outputs:
 
+```
 Array
 (
     [0] => Array
@@ -117,7 +119,7 @@ Please see [CHANGELOG](CHANGELOG.md) for more information on what has changed re
 
 ## Credits
 
-- [ionesculiviucristian](https://github.com/ionesculiviucristian)
+- [Ionescu Liviu Cristian](https://github.com/ionesculiviucristian)
 
 ## License
 
