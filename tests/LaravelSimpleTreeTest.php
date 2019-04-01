@@ -1,4 +1,5 @@
 <?php
+
 namespace ionesculiviucristian\LaravelSimpleTree\Tests;
 
 use Orchestra\Testbench\TestCase;

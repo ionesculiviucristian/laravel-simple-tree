@@ -1,4 +1,5 @@
 <?php
+
 namespace ionesculiviucristian\LaravelSimpleTree;
 
 class LaravelSimpleTree
@@ -41,11 +42,11 @@ class LaravelSimpleTree
         $groups = [];
 
         // Group items by their parent
-        foreach ($this->data as $item){
+        foreach ($this->data as $item) {
             $groups[$item[$this->parentKeyName]][] = $item;
         }
 
-        $fnBuilder = function($siblings) use (&$fnBuilder, $groups) {
+        $fnBuilder = function ($siblings) use (&$fnBuilder, $groups) {
             foreach ($siblings as $k => $sibling) {
                 $id = $sibling[$this->keyName];
 
