@@ -1,9 +1,8 @@
 # Laravel Simple Tree
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/ionesculiviucristian/laravel-simple-tree.svg?style=flat-square)](https://packagist.org/packages/ionesculiviucristian/laravel-simple-tree)
-[![Build Status](https://img.shields.io/travis/ionesculiviucristian/laravel-simple-tree/master.svg?style=flat-square)](https://travis-ci.org/ionesculiviucristian/laravel-simple-tree)
-[![Quality Score](https://img.shields.io/scrutinizer/g/ionesculiviucristian/laravel-simple-tree.svg?style=flat-square)](https://scrutinizer-ci.com/g/ionesculiviucristian/laravel-simple-tree)
-[![Total Downloads](https://img.shields.io/packagist/dt/ionesculiviucristian/laravel-simple-tree.svg?style=flat-square)](https://packagist.org/packages/ionesculiviucristian/laravel-simple-tree)
+[![Latest Stable Version](https://poser.pugx.org/ionesculiviucristian/laravel-simple-tree/v/stable)](https://packagist.org/packages/ionesculiviucristian/laravel-simple-tree)
+[![Total Downloads](https://poser.pugx.org/ionesculiviucristian/laravel-simple-tree/downloads)](https://packagist.org/packages/ionesculiviucristian/laravel-simple-tree)
+[![License](https://poser.pugx.org/ionesculiviucristian/laravel-simple-tree/license)](https://packagist.org/packages/ionesculiviucristian/laravel-simple-tree)
 
 This package provides functionality for handling simple tree structures.
 
