@@ -1,5 +1,8 @@
 # Laravel Simple Tree
 
+[![StyleCI Shield](https://github.styleci.io/repos/178866307/shield?branch=master)](https://github.styleci.io/repos/178866307/shield?branch=master)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/ionesculiviucristian/laravel-simple-tree/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/ionesculiviucristian/laravel-simple-tree/badges/quality-score.png?b=master)
+[![Build Status](https://travis-ci.org/ionesculiviucristian/laravel-simple-tree.png)](https://travis-ci.org/ionesculiviucristian/laravel-simple-tree)
 [![Latest Stable Version](https://poser.pugx.org/ionesculiviucristian/laravel-simple-tree/v/stable)](https://packagist.org/packages/ionesculiviucristian/laravel-simple-tree)
 [![Total Downloads](https://poser.pugx.org/ionesculiviucristian/laravel-simple-tree/downloads)](https://packagist.org/packages/ionesculiviucristian/laravel-simple-tree)
 [![License](https://poser.pugx.org/ionesculiviucristian/laravel-simple-tree/license)](https://packagist.org/packages/ionesculiviucristian/laravel-simple-tree)
