@@ -1,0 +1,54 @@
+{
+    "name": "ionesculiviucristian/laravel-simple-tree",
+    "description": "Laravel package for handling simple tree structures.",
+    "keywords": [
+        "laravel",
+        "tree",
+        "categories"
+    ],
+    "homepage": "https://github.com/ionesculiviucristian/laravel-simple-tree",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ionescu Liviu Cristian",
+            "email": "ionescu.liviucristian@yahoo.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": "^7.2"
+    },
+    "require-dev": {
+        "larapack/dd": "^1.0",
+        "orchestra/testbench": "^3.5",
+        "phpunit/phpunit": "^8.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "ionesculiviucristian\\LaravelSimpleTree\\": "src"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "ionesculiviucristian\\LaravelSimpleTree\\Tests\\": "tests"
+        }
+    },
+    "scripts": {
+        "test": "vendor/bin/phpunit",
+        "test-coverage": "vendor/bin/phpunit --coverage-html coverage"
+
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "ionesculiviucristian\\LaravelSimpleTree\\LaravelSimpleTreeServiceProvider"
+            ],
+            "aliases": {
+                "Skeleton": "ionesculiviucristian\\LaravelSimpleTree\\LaravelSimpleTreeFacade"
+            }
+        }
+    }
+}
